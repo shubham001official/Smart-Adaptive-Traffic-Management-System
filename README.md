@@ -1,7 +1,3 @@
-Sure, here's a complete README content for your Smart Adaptive Traffic Management System using YOLO v8 and CCTV:
-
----
-
 # Smart Adaptive Traffic Management System using YOLO v8 and CCTV
 
 ## Introduction
