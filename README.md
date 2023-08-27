@@ -25,10 +25,19 @@ Welcome to the realm of **Smart Adaptive Traffic Management**! This revolutionar
 3. Access the Admin GUI to interact with the system directly. This interface facilitates live image streaming, offers a wealth of traffic insights, and empowers users to influence signal timings.
 
 ## Demo Videos 🎬
-- **Traffic Simulation:** Immerse yourself in the captivating [Simulation Demo](simulation_demo.mp4). Experience the adaptive traffic signal system's prowess as it orchestrates seamless traffic management at a simulated 2-way intersection.
+- **Admin GUI:**
+  
+https://github.com/shubham001official/Smart-Adaptive-Traffic-Management-System/assets/109148746/1e120012-1831-4b09-acef-fa0b5424aec6
 
-- **Admin GUI:** Delve into the functional [Admin GUI Demo](admin_gui_demo.mp4) and witness the convergence of technology and transportation management. Experience firsthand the fluidity of live traffic control and monitoring.
+- Delve into the functional and witness the convergence of technology and transportation management. Experience firsthand the fluidity of live traffic control and monitoring.
+- **Traffic Simulation:** Immerse yourself in the captivating [Simulation Demo](simulation_demo.mp4).
 
+
+https://github.com/shubham001official/Smart-Adaptive-Traffic-Management-System/assets/109148746/faad34f0-1add-4b67-ae61-f9c540ca07e5
+
+
+
+-   Experience the adaptive traffic signal system's prowess as it orchestrates seamless traffic management at a simulated 2-way intersection.
 ## Future Enhancements 🚀
 - Envisioned for the project's future are integrations with smart city infrastructure, enabling holistic and city-wide traffic optimization solutions.
 
